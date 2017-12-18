@@ -1,42 +1,21 @@
 # CardGameList
 
-Multi-player
 
-Bluff
-Minimize
-Hearts
-Load
-AssHole
-Judgement
-Napoleon
-Badam 7
-Rummy
-Gulam-chor
-ThankYou Sorry
-Cucumber
-Euchre
-
-
-6 Player
-
-Chakdi
-ThankYou Sorry Chakdi
-
-
-4 Player
-
-Sweep
-Spades
-28/29
-Bridge
-Plus minus
-Dehla Pakad
-Courtpiece with variations
-
-
-3 Player
-
-3-2-5
-Guiyaan Patta
-
-
+1.  Sweep
+2.  Bluff
+3.  Minimize
+4.  Spades
+5.  Hearts
+6.  Load
+7.  AssHole
+8.  29 
+9.  Judgement
+10. Courtpiece 
+11. 3-2-5
+12. Chagdi
+13. Bridge
+14. Napoleon
+15. Badam 7
+16. Plus minus
+17. Dehla Pakad
+18. Euchre
